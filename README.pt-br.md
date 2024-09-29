@@ -1,6 +1,12 @@
 Tradução:
 
 # DuckStation - Emulador de PlayStation 1, também conhecido como PSX
+
+**FORK:** Em setembro de 2024, a DuckStation trocou sua licença da licença de software livre GNU GPLv3 para uma fonte disponível, mas não software livre, licença CC-BY-NC-ND 4.0.
+Este repositório é a última versão que ainda é licenciada pela GPLv3, ou seja, o último commit antes da mudança de licença. Atualmente, além desta nota README.md, não há outras mudanças, e não tenho planos de desenvolvê-lo eu mesmo. Se você só precisa de um ótimo emulador de PS1 para seu uso pessoal, use a versão oficial de stenzek.
+Se você deseja manter um fork GPL você mesmo, pode usar isso como uma linha de base.
+**Não** publique PR de nenhum commit de mudança de licença postado do uptree, a menos que você seja o *único* proprietário dos direitos autorais e deseje publicar suas mudanças sob a licença GPLv3.
+
 [Últimas Notícias](#latest-news) | [Recursos](#features) | [Download e Execução](#downloading-and-running) | [Compilação](#building) | [Avisos Legais](#disclaimers)
 
 **Últimas Versões para Windows 10/11, Linux (AppImage/Flatpak) e macOS:** https://github.com/stenzek/duckstation/releases/tag/latest
